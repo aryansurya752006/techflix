@@ -1,0 +1,5 @@
+{
+  "name": "Aura Health EMR",
+  "description": "A modern Electronic Medical Record (EMR) system for Aura Health, featuring patient dashboards and clinical entry tools.",
+  "requestFramePermissions": []
+}
